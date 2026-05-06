@@ -1,6 +1,6 @@
 # Extended Bestiary Milestones
 
-A mod for [Rogue Genesia](https://store.steampowered.com/app/2089120/Rogue_Genesia/)
+A mod for Rogue Genesia
 that adds 45 "Special Milestones" on top of the vanilla 5 per monster, each granting
 +5% bestiary XP. Special milestones are display-only and **do not** count toward
 existing bestiary completion achievements.
@@ -69,14 +69,3 @@ BestiaryMilestonesMod/
 ├── ModPreview.png                   (optional) 800×400 Workshop preview
 └── ModIcon.png                      (optional) 32×32 in-game list icon
 ```
-
-## Steam Workshop
-
-Once built and tested locally, upload from the in-game mod manager:
-*Mods → select this mod → Upload to Workshop*. The first upload reserves
-a Workshop ID and writes it back into `ModInfo.rgmod` — commit the
-updated file so future uploads target the same Workshop entry.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
