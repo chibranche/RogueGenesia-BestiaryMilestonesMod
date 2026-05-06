@@ -1,0 +1,15 @@
+{
+  "Name": "BestiaryMilestones",
+  "Author": "chibranche",
+  "Version": "0.1.0",
+  "WorkshopID": "",
+  "DisplayedName": [
+    { "Key": "en", "Value": "Extended Bestiary Milestones" }
+  ],
+  "DisplayedDescription": [
+    { "Key": "en", "Value": "Adds 45 'Special Milestones' on top of the vanilla 5 per monster. Each Special Milestone grants +5% bestiary XP. Special milestones do not count toward bestiary completion achievements." }
+  ],
+  "HardDependencies": [],
+  "SoftDependencies": [],
+  "Tags": []
+}
